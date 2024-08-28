@@ -1,2 +1,6 @@
-print("Qual os eu nome?")
-input()
+nome1=input("Escreva seu nome:")
+print('nome1:',nome1)
+nome2=input("Escreva seu nome:")
+print('nome2:',nome2 )
+nome3=input("Escreva seu nome:")
+print('nome3:',nome3)
